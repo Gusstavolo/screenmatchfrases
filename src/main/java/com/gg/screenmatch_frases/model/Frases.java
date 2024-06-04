@@ -1,4 +1,4 @@
-package com.gg.screenmatch_frases;
+package com.gg.screenmatch_frases.model;
 
 import jakarta.persistence.*;
 
